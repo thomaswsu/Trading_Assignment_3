@@ -112,7 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-*.xlsx
 ~$signment 3 - Data Description.docx
 .DS_Store
 *.csv
+~$Assignment_3_Data.xlsx
